@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5916ef6-4a11-47c2-83b6-220f62822054" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cones_on_simulatedimages_sample.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cones_on_simulatedimages_sample.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="f5916ef6-4a11-47c2-83b6-220f62822054" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +21,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -39,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597660757110</updated>
-      <workItem from="1597660758231" duration="1743000" />
+      <workItem from="1597660758231" duration="2206000" />
     </task>
     <task id="LOCAL-00001" summary="update readme">
       <created>1597661167533</created>
@@ -48,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597661167533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update readme">
+      <created>1597662548513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597662548513</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,13 +68,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="update readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="46" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1597661167465">
+    <state x="46" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1597662548455">
       <screen x="46" y="27" width="1320" height="741" />
     </state>
-    <state x="46" y="27" width="1310" height="741" key="CommitChangelistDialog2/46.27.1320.741/1366.0.1360.768@46.27.1320.741" timestamp="1597661167465" />
-    <state x="201" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1597661174338">
+    <state x="46" y="27" width="1310" height="741" key="CommitChangelistDialog2/46.27.1320.741/1366.0.1360.768@46.27.1320.741" timestamp="1597662548455" />
+    <state x="201" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1597662553568">
       <screen x="46" y="27" width="1320" height="741" />
     </state>
-    <state x="201" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/46.27.1320.741/1366.0.1360.768@46.27.1320.741" timestamp="1597661174338" />
+    <state x="201" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/46.27.1320.741/1366.0.1360.768@46.27.1320.741" timestamp="1597662553568" />
   </component>
 </project>
